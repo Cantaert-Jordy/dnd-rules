@@ -7,7 +7,7 @@ Please use the following rules when creating your character.
 Use *Point Buy* or *Standard Array* to determine your ability scores, random rolls are not allowed.
 
 ### Languages
-When you may choose a [language [PHB 123]](https://5thsrd.org/character/languages/) for you character, choose one from the *Standard Languages* table, unless differently specified by the feature providing the language. If you wish to choose a language from the *Exotic Languages* table, provide a reason on why your character would know this language and discuss with the DM.
+When you may choose a [language [PHB 123]](https://5thsrd.org/character/languages/) for your character, choose one from the *Standard Languages* table, unless differently specified by the feature providing the language. If you wish to choose a language from the *Exotic Languages* table, provide a reason on why your character would know this language and discuss with the DM.
 
 ### Sources
 Anthing from the following sources is allowed for use:
@@ -31,7 +31,7 @@ The following rules are costum/variant rules that will be used during the game.
 You can use your *action* to perform a second *bonus action* during your turn. However, you cannot perform the same *bonus action* twice on your turn.
 
 ### Brutal Critical
-When you deal a critical hit to a creature, you damage is the max value of all your damage dice + rolling the dice once + any other modifiers, instead of rolling all  twice.
+When you deal a critical hit to a creature, the damage you inflict is the max value of all your damage dice + rolling the dice once + any other modifiers, instead of rolling all dice twice. Note that other creatures also benefit from this rule.
 
 ### Countering a Spell
 When using your reaction to indentify a spell, you may use the same reaction to cast [*Counterspell*](https://roll20.net/compendium/dnd5e/Counterspell#content) if you wish do so.
