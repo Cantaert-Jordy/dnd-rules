@@ -7,7 +7,7 @@ Please use the following rules when creating your character.
 Use *Point Buy* or *Standard Array* to determine your ability scores, random rolls are not allowed.
 
 ### Languages
-When you may choose a [language [PHB 123]](https://5thsrd.org/character/languages/) for you character, choose one from the *Standard Languages* table, unless differently specified by the feature providing the language. If you wish to choose a language from the Exotic Languages, provide a reason on why your character would know this language and discuss with the DM.
+When you may choose a [language [PHB 123]](https://5thsrd.org/character/languages/) for you character, choose one from the *Standard Languages* table, unless differently specified by the feature providing the language. If you wish to choose a language from the *Exotic Languages* table, provide a reason on why your character would know this language and discuss with the DM.
 
 ### Sources
 Anthing from the following sources is allowed for use:
