@@ -36,6 +36,9 @@ When you deal a critical hit to a creature, the damage you inflict is the max va
 ### Countering a Spell
 When using your reaction to indentify a spell, you may use the same reaction to cast [*Counterspell*](https://roll20.net/compendium/dnd5e/Counterspell#content) if you wish do so.
 
+### Equipment Sizes [PHB 144]
+Some items are made for specific kinds of creatures. An orc would not be able to easily fit a breastplate made for a gnome, for example. Sometimes these items could be taken to a professional artisan who can make the needed alterations to the item.
+ 
 ### Knocking a Creature Unconsious
 When reducing a creature's hit points to 0 with a melee attack, you can choose to knock the creature unconsious instead of killing it. In order to do this the performed attack must be able to create this result. You must also be able to explain how you do this (this explaination doesn't need to be complex, but creativity can be rewarded. One could, for example, hit a creature with the blunt side of the their sword on the final blow).
 
