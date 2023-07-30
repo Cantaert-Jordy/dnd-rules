@@ -7,7 +7,7 @@ Please use the following rules when creating your character.
 Use *Point Buy* or *Standard Array* to determine your ability scores, random rolls are not allowed.
 
 ### Alignments
-As evil alignments are most often used for enemies and most stories benefit from non-evil heroes, please choose a good or neutral alignment for your character. If you wish to play a character with an evil alignment, make sure that this character would want to work with the party without hindering them and discuss with the DM.
+ Please choose a good or neutral alignment for your character, as evil alignments are most often used for enemies and most stories benefit from non-evil heroes. If you wish to play a character with an evil alignment, make sure that this character would want to work with the party without hindering them and discuss with the DM.
 
 ### Languages
 When you may choose a [language [PHB 123]](https://5thsrd.org/character/languages/) for your character, choose one from the *Standard Languages* table, unless differently specified by the feature providing the language. If you wish to choose a language from the *Exotic Languages* table, provide a reason on why your character would know this language and discuss with the DM.
